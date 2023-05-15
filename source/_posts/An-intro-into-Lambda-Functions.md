@@ -2,6 +2,9 @@
 title: An intro into Lambda Functions
 date: 2023-03-12 08:01:06
 tags:
+- Lambda Functions
+categories: 
+- AWS
 ---
 # AWS Lambda Functions for Beginners - 1
 
