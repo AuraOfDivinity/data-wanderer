@@ -4,9 +4,9 @@ date: 2023-05-13 13:00:24
 tags:
 - Lambda Functions
 - Architecting
+- System Design
 categories: 
 - AWS
-- System Design
 ---
 
 Prime Video, one of the biggest streaming services in the world, has recently made a move that has surprised many: abandoning AWS Lambda in favor of a monolith architecture. This decision has generated a lot of discussion among industry insiders and tech enthusiasts alike, so let's take a closer look at what prompted this shift.
